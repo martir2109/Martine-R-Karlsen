@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/workspaces/Martine-R-Karlsen/index.html"
+            "file": "/Users/martinekarlsen/Desktop/Min nettside/index.html"
         }
     ]
 }
