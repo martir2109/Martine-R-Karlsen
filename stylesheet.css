@@ -1,5 +1,9 @@
+.body{
+  margin: 25px 50px 75px 100px;
 
-h1{
+}
+
+.h1{
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
   color:black;
